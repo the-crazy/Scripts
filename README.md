@@ -1,1 +1,1 @@
-Scripts para automatizar tarefas no linux mint.
+Scripts para automatizar tarefas no linux.
